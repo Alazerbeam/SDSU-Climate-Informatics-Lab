@@ -26,20 +26,22 @@ FourCastNetv2 includes 73 variables in its forecast predictions. Here is a quick
 - tX: Temperature at X hPa in K
 - rX: Relative humidity at X hPa as percentage
 Note that hPa is the unit to essentially determine the height of the measurement. Here is a table of common pressure levels.
-Pressure (hPa)           Approx Altitude (km)
-    1000                         0.1
-     925                         0.8
-     850                         1.5
-     700                         3.0
-     600                         4.5
-     500                         5.5
-     400                         7.0
-     300                         9.0
-     250                        10.5
-     200                        12.0
-     150                        13.5
-     100                        16.0
-      50                        20.0
+
+| Pressure (hPa) | Approx Altitude (km) |
+|---------------|-----------------------|
+| 1000          | 0.1                   |
+| 925           | 0.8                   |
+| 850           | 1.5                   |
+| 700           | 3.0                   |
+| 600           | 4.5                   |
+| 500           | 5.5                   |
+| 400           | 7.0                   |
+| 300           | 9.0                   |
+| 250           | 10.5                  |
+| 200           | 12.0                  |
+| 150           | 13.5                  |
+| 100           | 16.0                  |
+| 50            | 20.0                  |
 
 References:
 https://docs.nvidia.com/deeplearning/physicsnemo/physicsnemo-sym/user_guide/neural_operators/fourcastnet.html
