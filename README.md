@@ -44,5 +44,5 @@ Note that hPa is the unit to essentially determine the height of the measurement
 | 50            | 20.0                  |
 
 References:
-https://docs.nvidia.com/deeplearning/physicsnemo/physicsnemo-sym/user_guide/neural_operators/fourcastnet.html
-https://docs.api.nvidia.com/nim/reference/nvidia-fourcastnet
+- https://docs.nvidia.com/deeplearning/physicsnemo/physicsnemo-sym/user_guide/neural_operators/fourcastnet.html
+- https://docs.api.nvidia.com/nim/reference/nvidia-fourcastnet
