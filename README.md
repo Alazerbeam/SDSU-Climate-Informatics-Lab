@@ -1,5 +1,19 @@
-# Purpose
-This repository contains my contributions to the SDSU Climate Informatics Lab (SCIL). 
+# SDSU Robustness Test for FourCastNetv2 AI Weather Forecast Models
+This repository contains the supporting materials for my paper entitled "Robustness Test for AI Forecasting of Hurricane Florence Using FourCastNetv2 and Random Perturbations of the Initial Condition" authored by Adam Lizerbram, Shane Stevenson, Iman Khadir, Matthew Tu, and Samuel S. P. Shen.
+
+# Summary of this Project
+
+# Sample Figures for this Project
+
+# Computer Code for Reproduction for the Figures and Animations of the Paper
+
+# Data Needed for the Reproduction of the Figures
+
+# Computer Code for this Research Project
+
+# (contact me, tutoral, etc)
+
+# References (2 or 3, at most 5)
 
 # Tasks
 This repo contains the tasks that I was assigned to complete for the SDSU Climate Informatics Lab (SCIL). My specific tasks included testing NVIDIA’s model FourCastNetv2 (FCNv2) with added randomness to the model’s input in various settings. I was able to provide custom input to FCNv2 by using NVIDIA’s Earth2MIP github repository. I have included instructions on how to download this repo and install all dependencies to be able to utilize it right away.
